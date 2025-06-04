@@ -3,6 +3,7 @@
 
 # 🧠 ML + Veterinary Medicine Journey
 
+
 Hi, I'm Ibrahim Adebanjo — a veterinary medicine student on a mission to revolutionize animal health through **Machine Learning**. This repository documents my learning, progress, and projects as I transition into an AI-powered veterinary future.
 
 ---
@@ -17,9 +18,7 @@ To master the skills of a Machine Learning Engineer and apply them to real-world
 |--------|----------------------------------------------------------|
 | Week 1 | Learned Python basics: variables, loops, and functions. Built a simple CLI app for pet data. |
 | Week 2 | *Flow control*                                            |
-| ...    | ...                                                     |
-data. |
-| Week 3 | *Lists and Functions*                                            |
+| Week 3 | *Lists and Functions*                                       |
 | ...    | ...                                                     |
 
 ---
@@ -46,7 +45,7 @@ ml-vet-journey/
 
 ## 🔗 Connect With Me
 - **GitHub**: [@Ibrahimadebanjo](https://github.com/Ibrahimadebanjo)  
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/YOUR_PROFILE)  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ibrahim-adebanjo/)  
 - **Email**: ibrahimadebanjo2443@gmail.com  
 
 ---
