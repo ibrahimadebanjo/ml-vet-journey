@@ -10,4 +10,3 @@ while True:
     if age.isalnum():
         break
     print("Password can only have letters or numbers")
-

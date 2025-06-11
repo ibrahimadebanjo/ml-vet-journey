@@ -1,0 +1,36 @@
+import re
+# Matching multiple groups with pipe character |
+heroRegex = re.compile(r"Spider Man|Iron Man")
+mo = heroRegex.search("My best is Iron Man")
+print(mo.group())
+mo = heroRegex.search("Spider Man and Iron Man are both Marvel Character")
+print(mo.group())
+# Optional Matching with ? character
+batRegex = re.compile(r'Bat(wo)?man')
+mo = batRegex.search(r"This is Batman")
+print(mo.group())
+mo = batRegex.search(r"This is Batwoman")
+print(mo.group())
+phoneRegex = re.compile(r'(\d\d\d-)?\d\d\d-\d\d\d\d')
+mo = phoneRegex.search("My Number is 754-374-8743")
+print(mo.group())
+mo = phoneRegex.search("This is my Number 948-2847")
+print(mo.group())
+# Matching Zero or more with star *
+batRegex = re.compile(r'Bat(wo)*man')
+mo = batRegex.search('The Adventures of Batwowowowoman')
+print(mo.group())
+# Matching one or More with +
+batRegex = re.compile(r'Bat(wo)+man')
+mo = batRegex.search('The Adventures of Batwoman')
+print(mo.group())
+mo = batRegex.search('The Adventures of Batwowowowoman')
+print(mo.group())
+mo = batRegex.search('The Adventures of Batman')
+print(mo == None)
+# Matching Specific Repetitions with Curly Brackets
+haRegex = re.compile(r'(Ha){3}')
+mo = haRegex.search("I said HaHaHa")
+print(mo.group())
+mo = haRegex.search("Ha")
+print(mo == None)
