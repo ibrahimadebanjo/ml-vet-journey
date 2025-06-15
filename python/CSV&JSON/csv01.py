@@ -1,0 +1,11 @@
+import csv
+exampleFile = open("C:\\Users\\IBRAHIM\\Documents\\ml-vet-journey\\python\\Automate_the_Boring_Stuff_3e_onlinematerials\\Automate_the_Boring_Stuff_3e_onlinematerials\\exampleWithHeader3.csv")
+exampleReader = csv.reader(exampleFile)
+exampleData = list(exampleReader)
+print(exampleData)
+print(exampleData[0][0])
+print(exampleData[0][1])
+print(exampleData[1][0])
+print(exampleData[6][0])
+print(exampleData[5][1])
+print(exampleData[2][1])
