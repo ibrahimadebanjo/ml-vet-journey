@@ -19,5 +19,5 @@ server.starttls()
 server.login(senderMail, "Your password")
 server.sendmail(senderMail,  receiverEmail, msg.as_string())
 server.quit()
-# NB: USE smtp.gmail.com with port 587(TLS) or 465(SSL) 
-# check other 
+# NB: USE smtp.gmail.com with port 587(TLS) or 465(SSL)
+# check other
