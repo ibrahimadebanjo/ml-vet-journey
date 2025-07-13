@@ -26,3 +26,7 @@
  2. O(n2)
  3. O(logn) :)
  4. O(n3)
+
+  • Algorithm analysis is an implementation-independent way of measuring an algorithm.
+ • Big-O notation allows algorithms to be classified by their dominant process with respect
+ to the size of the problem
