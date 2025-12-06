@@ -1,0 +1,2 @@
+ALTER TABLE trans03
+DROP FOREIGN KEY trans03_ibfk_1

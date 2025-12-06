@@ -1,0 +1,5 @@
+INSERT INTO trans
+VALUES 
+(1003  , 4.99);
+
+SELECT * FROM trans

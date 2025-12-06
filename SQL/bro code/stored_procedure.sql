@@ -1,0 +1,7 @@
+-- stored procdure
+DELIMITER $$
+CREATE PROCEDURE get_customers()
+BEGIN
+SELECT * FROM customers;
+END $$
+DELIMITER ;

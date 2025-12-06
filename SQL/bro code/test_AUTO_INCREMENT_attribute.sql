@@ -1,0 +1,3 @@
+INSERT INTO trans02(amount)
+VALUES (4.99);
+SELECT * FROM trans02

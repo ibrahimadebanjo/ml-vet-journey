@@ -1,0 +1,6 @@
+CREATE TABLE number_tbl
+(val SMALLINT);
+INSERT INTO number_tbl VALUES(1);
+INSERT INTO number_tbl VALUES(3);
+INSERT INTO number_tbl VALUES(5);
+INSERT INTO number_tbl VALUES (NULL);

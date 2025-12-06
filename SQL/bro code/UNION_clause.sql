@@ -1,0 +1,3 @@
+SELECT * FROM trans02
+UNION
+SELECT * FROM trans03;

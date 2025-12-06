@@ -1,0 +1,7 @@
+CREATE TABLE trans02
+(
+transaction_id INT PRIMARY KEY AUTO_INCREMENT,
+amount DECIMAL(5,2)
+
+);
+SELECT * FROM trans02
