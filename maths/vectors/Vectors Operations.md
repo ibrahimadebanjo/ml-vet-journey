@@ -1,37 +1,26 @@
-1. Vector01.py using numpy, matplotlib and seaborn to plot graph for two vectors (x and y) 
+1. Vector01.py using numpy, matplotlib and seaborn to plot graph for two vectors (x and y)
 
-![Screenshot_20260528-175434](Screenshot_20260528-175434.JPG)
+![Screenshot_20260528-175434](https://raw.githubusercontent.com/ibrahimadebanjo/ml-vet-journey/main/maths/vectors/Screenshot_20260528-175434.JPG)
 
-2. Vetctor02.py 
-Plot of a positive vector and a negative vector 
-![Screenshot_20260528-175752](Screenshot_20260528-175752.JPG)
+2. Vetctor02.py Plot of a positive vector and a negative vector
 
-3.vector04.py
-Plots of adding vectors
-![Screenshot_20260528-182602](Screenshot_20260528-182602.JPG)
+![Screenshot_20260528-175752](https://raw.githubusercontent.com/ibrahimadebanjo/ml-vet-journey/main/maths/vectors/Screenshot_20260528-175752.JPG)
 
-4. Vector06.py 
-Plots of subtracting vectors
-![Screenshot_20260528-183226](Screenshot_20260528-183226.JPG) 
+3. vector04.py Plots of adding vectors
 
-5. vector08.py 
-Multiplying a vector by a scaler positive x 2
-![Screenshot_20260528-183502](Screenshot_20260528-183502.JPG)
+![Screenshot_20260528-182602](https://raw.githubusercontent.com/ibrahimadebanjo/ml-vet-journey/main/maths/vectors/Screenshot_20260528-182602.JPG)
+
+4. Vector06.py Plots of subtracting vectors
+
+![Screenshot_20260528-183226](https://raw.githubusercontent.com/ibrahimadebanjo/ml-vet-journey/main/maths/vectors/Screenshot_20260528-183226.JPG)
+
+5. vector08.py Multiplying a vector by a scaler positive x 2
+
+![Screenshot_20260528-183502](https://raw.githubusercontent.com/ibrahimadebanjo/ml-vet-journey/main/maths/vectors/Screenshot_20260528-183502.JPG)
+
 Negative -0.5
-![Screenshot_20260528-183740](Screenshot_20260528-183740.JPG)
 
-VECTOR OPERATIONS 
-4. Dot Products of vectors 
-5. Cross product of 2 vectors
-6. Projection of a vector to another vector
-
-![Screenshot_20260528-172237](Screenshot_20260528-172237.JPG)
-
-Magnitude of a vector
-
-
-![Screenshot_20260528-171349](Screenshot_20260528-171349.JPG)
-
+![Screenshot_20260528-183740](https://raw.githubusercontent.com/ibrahimadebanjo/ml-vet-journey/main/maths/vectors/Screenshot_20260528-183740.JPG)
 
 Notes: 
 
