@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "d0d11dcc49733b37",
+    "id": "11d4e060f7286f9c",
     "type": "split",
     "children": [
       {
-        "id": "4639de860d5d3a9e",
+        "id": "28f6e32b43911dab",
         "type": "tabs",
         "children": [
           {
-            "id": "dc34fa20a308bdd6",
+            "id": "d1efd0ba2bbec3ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "matrixes/Matrices.md",
-                "mode": "preview",
+                "file": "Data_processing_and_visualization/data_processing_and_visualization.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrices"
+              "title": "data_processing_and_visualization"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "de43df17bdb7152f",
+    "id": "9a6ac561f4224e36",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1d63ab00b67adf86",
+        "id": "693b9c210c3164fc",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "2136b2af2854dc9a",
+        "id": "e4017c955f468b1b",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "b316e53c20cf2a84",
+        "id": "36379484c4e62081",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +76,7 @@
         }
       },
       {
-        "id": "5fbb3fd0b623f43a",
+        "id": "daaf94d0a68c4303",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -90,7 +90,7 @@
         }
       },
       {
-        "id": "5bad106d44c2fd6e",
+        "id": "79fa401e5f0c2072",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -103,16 +103,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "c30b1d1b1bd72d8a",
+    "id": "a0ae2cf056f364ef",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "90ac044d4565f6ee",
+        "id": "19d14bb75294927e",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "matrixes/Matrices.md",
+            "file": "Data_processing_and_visualization/data_processing_and_visualization.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,11 +126,12 @@
         }
       },
       {
-        "id": "0a98b2e8e2b6fffa",
+        "id": "cb7543c896cecd10",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Data_processing_and_visualization/data_processing_and_visualization.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,11 +140,12 @@
         }
       },
       {
-        "id": "7015c550d0b00479",
+        "id": "29b6f81277efbc99",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "Data_processing_and_visualization/data_processing_and_visualization.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -166,25 +168,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc34fa20a308bdd6",
+  "active": "693b9c210c3164fc",
   "lastOpenFiles": [
-    "images/V9.jpg",
-    "matrixes/Matrices.md",
-    "images/N14.jpg",
-    "images/N13.jpg",
-    "images/N12.jpg",
-    "images/N11.jpg",
-    "images/N10.jpg",
-    "images/N9.jpg",
-    "images/N8.jpg",
-    "images/N7.jpg",
-    "images/N6.jpg",
-    "images/N5.jpg",
-    "Untitled.md",
-    "statistics",
-    "images/V8.md",
-    "vectors/Vectors Operations.md",
-    "().md",
-    "images"
+    "Data_processing_and_visualization/images",
+    "Data_processing_and_visualization/images/DPV2.jpg",
+    "Data_processing_and_visualization/images/DPV1.jpg",
+    "Data_processing_and_visualization/data_processing_and_visualization.md",
+    "Data_processing_and_visualization"
   ]
 }
