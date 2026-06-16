@@ -4,5 +4,3 @@
 
 
 ![](./images/DPV2.jpg)
-
-
