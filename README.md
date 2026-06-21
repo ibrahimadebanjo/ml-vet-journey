@@ -1,3 +1,4 @@
+<!--
 # ml-vet-journey
 
 
@@ -51,4 +52,6 @@ ml-vet-journey/
 ---
 
 ## 📌 Inspiration
-*"If you're not actively building the future you want, someone else will hire you to build theirs."* — Tony Gaskins
+*"If you're not actively building the future you want, someone else will hire you to build theirs."* — Tony Gaskins 
+
+-->
