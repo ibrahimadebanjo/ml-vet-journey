@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Data_handling_and_processing/reports/data_handling_and_processing.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -170,6 +170,8 @@
   },
   "active": "d1efd0ba2bbec3ba",
   "lastOpenFiles": [
+    "Data_handling_and_processing/reports/images/pandas_02_imports_results.jpg",
+    "Data_handling_and_processing/reports/images/pandas_01_imports.jpg",
     "Data_handling_and_processing/images",
     "Data_handling_and_processing/images/DPV2.jpg",
     "Data_handling_and_processing/images/DPV1.jpg",
