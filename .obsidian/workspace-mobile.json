@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "data_handling_and_processing"
             }
+          },
+          {
+            "id": "fe01e1ab7b1c0b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "machine-learning-fundamentals/reports/machine-learning-fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "machine-learning-fundamentals"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Data_processing_and_visualization/data_processing_and_visualization.md",
+            "file": "machine-learning-fundamentals/reports/machine-learning-fundamentals.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,8 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "d1efd0ba2bbec3ba",
+  "active": "693b9c210c3164fc",
   "lastOpenFiles": [
+    "Data_handling_and_processing/reports/data_handling_and_processing.md",
+    "machine-learning-fundamentals/reports/machine-learning-fundamentals.md",
+    "machine-learning-fundamentals/reports",
+    "machine-learning-fundamentals",
+    "Data_handling_and_processing/scripts/pandas/pandas_08_series.py",
     "Data_handling_and_processing/reports/images/pandas_02_imports_results.jpg",
     "Data_handling_and_processing/reports/images/pandas_01_imports.jpg",
     "Data_handling_and_processing/images",
